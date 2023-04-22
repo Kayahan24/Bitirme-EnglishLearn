@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669664116612",
+    "firebase_url": "https://englishlearn-2562b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "englishlearn-2562b",
+    "storage_bucket": "englishlearn-2562b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669664116612:android:204a79a663b35d97bce7d1",
+        "android_client_info": {
+          "package_name": "com.example.englishlearnauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669664116612-9f6ncr9nj95crppq81b5gl73n9503m8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6LzeEEXoAMjmvczOPg71b59HB3o80QJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669664116612-9f6ncr9nj95crppq81b5gl73n9503m8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
