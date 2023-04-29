@@ -44,31 +44,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC5vDLEY9Oi1UorTsof0Jx6TZdt1wVRfsY',
-    appId: '1:724928109914:web:363efbabeebd04fa5b2763',
+    apiKey: 'AIzaSyDsL7_rUX29qK-ALQY91hZno-onXPmxljs',
+    appId: '1:1004443082016:android:54899fe91f822f7de94b45',
     messagingSenderId: '724928109914',
-    projectId: 'flutter-freebies',
+    projectId: 'english-3367d',
     authDomain: 'flutter-freebies.firebaseapp.com',
     storageBucket: 'flutter-freebies.appspot.com',
     measurementId: 'G-2J3B19Q48B',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-      apiKey: "AIzaSyDr6scVTWmqufUgj1A6OOHSIK6Fq_wbTn8",
+      apiKey: "AIzaSyDsL7_rUX29qK-ALQY91hZno-onXPmxljs",
       authDomain: "englishlearn-2562b.firebaseapp.com",
       databaseURL:
           "https://englishlearn-2562b-default-rtdb.europe-west1.firebasedatabase.app",
-      projectId: "englishlearn-2562b",
+      projectId: "english-3367d",
       storageBucket: "englishlearn-2562b.appspot.com",
       messagingSenderId: "669664116612",
-      appId: "1:669664116612:web:6e426fef45f36e01bce7d1",
+      appId: "1:1004443082016:android:54899fe91f822f7de94b45",
       measurementId: "G-8Z7JTD9Q5B");
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBYvI2RbbDbqzK3UmSIlPW7QmIHKb97K6c',
-    appId: '1:724928109914:ios:c383c79f215bd1845b2763',
+    apiKey: 'AIzaSyDsL7_rUX29qK-ALQY91hZno-onXPmxljs',
+    appId: '1:1004443082016:android:54899fe91f822f7de94b45',
     messagingSenderId: '724928109914',
-    projectId: 'flutter-freebies',
+    projectId: 'english-3367d',
     storageBucket: 'flutter-freebies.appspot.com',
     iosClientId:
         '724928109914-1adjc73c1se3jr5shdiuntaujkqgvvre.apps.googleusercontent.com',
@@ -76,10 +76,10 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBYvI2RbbDbqzK3UmSIlPW7QmIHKb97K6c',
-    appId: '1:724928109914:ios:14570b773437fae25b2763',
+    apiKey: 'AIzaSyDsL7_rUX29qK-ALQY91hZno-onXPmxljs',
+    appId: '1:1004443082016:android:54899fe91f822f7de94b45',
     messagingSenderId: '724928109914',
-    projectId: 'flutter-freebies',
+    projectId: 'english-3367d',
     storageBucket: 'flutter-freebies.appspot.com',
     iosClientId:
         '724928109914-g3uv4qacao8h2u7an3sdtliqe18c19mc.apps.googleusercontent.com',
